@@ -1,0 +1,2 @@
+git reset --hard HEAD~1
+git tag -d audio-analysis-1.0
