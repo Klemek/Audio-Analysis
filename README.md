@@ -37,4 +37,4 @@ while (decoder.readSamples(samples) > 0) {
 ## Origin of this library
 I stumbled on [this stackoverflow question](https://stackoverflow.com/questions/17565269/calculate-fft-from-audio-file) from 2014 while searching how to compute a simple FFT in Java. The first answer was linking to a dead repository on code.google.com but someone had the brillant idea to [clone it to Github](https://github.com/Uriopass/audio-analysis) before it was too late.
 
-I just did some cleanup and uploaded it to [Maven Central]((https://search.maven.org/search?q=g:%22com.github.klemek%22%20AND%20a:%22audio-analysis%22) for a everyone.
+I just did some cleanup and uploaded it to [Maven Central](https://search.maven.org/search?q=g:%22com.github.klemek%22%20AND%20a:%22audio-analysis%22) for a everyone.
