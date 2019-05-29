@@ -2,10 +2,10 @@
 ![License](https://img.shields.io/github/license/Klemek/Audio-Analysis.svg)
 
 # Audio-Analysis
-Automatically exported from code.google.com/p/audio-analysis
+A simple FFT library in Java.
+Compute FFT from any WAV or MP3 file and perform calculation on it.
 
-## Disclaimer
-I'm not the author of this repo, only cloned it before it was too late, as code.google.com deleted all the little projects.
+**Disclaimer : I'm not the author of this repo**
 
 ## Use
 
@@ -32,3 +32,9 @@ while (decoder.readSamples(samples) > 0) {
     spectralFlux.add(flux);
 }
 ```
+
+
+## Origin of this library
+I stumbled on [this stackoverflow question](https://stackoverflow.com/questions/17565269/calculate-fft-from-audio-file) from 2014 while searching how to compute a simple FFT in Java. The first answer was linking to a dead repository on code.google.com but someone had the brillant idea to [clone it to Github](https://github.com/Uriopass/audio-analysis) before it was too late.
+
+I just did some cleanup and uploaded it to [Maven Central]((https://search.maven.org/search?q=g:%22com.github.klemek%22%20AND%20a:%22audio-analysis%22) for a everyone.
