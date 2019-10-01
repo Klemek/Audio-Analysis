@@ -1,3 +1,4 @@
+[![Scc Count Badge](https://sloc.xyz/github/klemek/audio-analysis/?category=code)](https://github.com/boyter/scc/#badges-beta)
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.klemek/audio-analysis.svg)](https://search.maven.org/search?q=g:%22com.github.klemek%22%20AND%20a:%22audio-analysis%22)
 ![License](https://img.shields.io/github/license/Klemek/Audio-Analysis.svg)
 
